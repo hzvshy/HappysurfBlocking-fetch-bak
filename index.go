@@ -21,7 +21,7 @@ import (
 
 const (
 	Version  = "1.0"
-	Password = "123456123456"
+	Password = "bopa45678!"
 )
 
 var (
